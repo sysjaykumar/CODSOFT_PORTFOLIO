@@ -29,7 +29,7 @@ To get started with the portfolio site, follow these steps:
 ### Installation
 1. Clone the repository or download the project as a `.zip` file.
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/sysjaykumar/CODSOFT_PORTFOLIO.git
 
    Structure
 index.html: The main HTML file containing the structure of the portfolio.
